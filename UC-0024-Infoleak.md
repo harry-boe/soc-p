@@ -10,9 +10,7 @@ Interne Informationen sind bewusst oder unbewusst abgeflossen oder der Öffentli
 
 ### Beispiel
 
-.. notifikation eMail
-.. SIEM Allert
-Vorgehen 
+- Alert Dashboard (link to Elastic Dashboard)
 
 
 ## Vorbereitungen, Bemerkungen
@@ -26,7 +24,7 @@ Vorgehen
 •	Known Systems, 
 •	Assets - ISMS inventory
 •	Datenschutz Verzeichnis)
-•	Netbox ?
+•	Netbox ? (link to Netbox)
 
 
 ### Kontakte (ev. aus Netbox)
