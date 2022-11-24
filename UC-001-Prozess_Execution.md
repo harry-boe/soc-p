@@ -8,27 +8,30 @@ Adversaries may abuse command and script interpreters to execute commands, scrip
 Mitre Ref: https://attack.mitre.org/techniques/T1059/
 
 
+## Use Case Documentaion
 
+- Link to ..
+- Elastic Rules ..
 
 ### Beispiel
 
-.. notifikation eMail
-.. SIEM Allert
-Vorgehen 
+- notifikation eMail
+- SIEM Allert
+- Vorgehen 
 
 
 ## Vorbereitungen, Bemerkungen
 
 ### Vorgaben und Prozesse 
-•	ISMS Datenklassifizierung
-•	Sec Incident Prozess
+- ISMS Datenklassifizierung
+- Sec Incident Prozess
 
 ### Assets
 
-•	Known Systems, 
-•	Assets - ISMS inventory
-•	Datenschutz Verzeichnis)
-•	Netbox ?
+- Known Systems, 
+- Assets - ISMS inventory
+- Datenschutz Verzeichnis)
+- Netbox ?
 
 
 ### Known Customer Obligations
