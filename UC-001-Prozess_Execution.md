@@ -15,9 +15,9 @@ Mitre Ref: https://attack.mitre.org/techniques/T1059/
 
 ### Beispiel
 
-- notifikation eMail
-- SIEM Allert
-- Vorgehen 
+- Dashboard
+- Typical Allert
+- Drilldown, deep dive
 
 
 ## Vorbereitungen, Bemerkungen
