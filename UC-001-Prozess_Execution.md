@@ -102,7 +102,7 @@ Die Validierung des Vorfalls kann über folgende Datenquellen im SIEM allenfall
 
 # Remediation 
 
-Shut down prozess
-Blacklist origin
-Discover impact on data and systems
+- Shut down prozess
+- Blacklist origin
+- Discover impact on data and systems
 .....
