@@ -36,9 +36,9 @@ Mitre Ref: https://attack.mitre.org/techniques/T1059/
 
 ### Known Customer Obligations
 
-| Customer   |      UC Variation      |  Comments | SLA |
-|----------|:-------------:|------:|-----:|
-|SVV| Falco Alert 003| Check mit AM | 24h|
+| Customer   |      UC Variation      |  Comments | SLA | Contract |
+|----------|:-------------:|------:|-----:|-----:|
+|SVV| Falco Alert 003| Check mit AM | 24h| [Betriebsvertrag SVV](Betriebsvertrag-svv.md)|
 
 
 ### Kontakte (ev. aus Netbox)
