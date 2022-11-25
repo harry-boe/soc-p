@@ -48,10 +48,10 @@ MOD
 
 ## Usefull Links
 
-https://talosintelligence.com/reputation_center/
-https://attack.mitre.org
-https://cve.mitre.org
-https://cwe.mitre.org
-https://www.virustotal.com/gui/home/upload
+- https://talosintelligence.com/reputation_center/
+- https://attack.mitre.org
+- https://cve.mitre.org
+- https://cwe.mitre.org
+- https://www.virustotal.com/gui/home/upload
 
 
