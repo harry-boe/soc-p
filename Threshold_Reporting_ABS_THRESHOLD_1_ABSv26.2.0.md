@@ -60,7 +60,7 @@ IT Security
 CISO
 DPO
 
-## Identifikation - False èPositive Stage 1
+## Identifikation - False Positive Stage 1
 
 Anzahl Akten Zugriffe > Threshold -> Indicates Data Exfiltration
 Compare historic Data
@@ -74,7 +74,7 @@ Far bejond Threshold
 
 ABS Logs
 
-### Analysys
+### Analysys - Stage 2
 
 Anzahl Akten Zugriffe > Threshold -> Indicates Data Exfiltration
 Check USER -> Special ABS User (Technical  User, Massendaten, Call-Center, Help Desk, Admoin=
