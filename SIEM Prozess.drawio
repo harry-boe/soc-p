@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-10T13:31:28.995Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="VHAg2bKRiCJXGNUGg7cx" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-10T21:00:40.118Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="if0K49KtERMwrgnJ2KrT" version="24.2.3" type="github">
   <diagram name="Page-1" id="40F3xFOu8TMAzaKEJhBd">
     <mxGraphModel dx="770" dy="502" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -78,11 +78,27 @@
         <mxCell id="MS9MhjEfk2jpSJ9V4XVU-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="MS9MhjEfk2jpSJ9V4XVU-6" source="MS9MhjEfk2jpSJ9V4XVU-54" target="MS9MhjEfk2jpSJ9V4XVU-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="MS9MhjEfk2jpSJ9V4XVU-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=12 12;" edge="1" parent="MS9MhjEfk2jpSJ9V4XVU-6" source="MS9MhjEfk2jpSJ9V4XVU-54" target="MS9MhjEfk2jpSJ9V4XVU-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MS9MhjEfk2jpSJ9V4XVU-64" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MS9MhjEfk2jpSJ9V4XVU-63">
+          <mxGeometry x="0.0311" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MS9MhjEfk2jpSJ9V4XVU-65" value="if required" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MS9MhjEfk2jpSJ9V4XVU-63">
+          <mxGeometry x="0.0724" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="MS9MhjEfk2jpSJ9V4XVU-54" value="Security Incident&lt;br&gt;Prozess" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="MS9MhjEfk2jpSJ9V4XVU-6">
           <mxGeometry x="50" y="70" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MS9MhjEfk2jpSJ9V4XVU-60" value="Incident Remediation&lt;br&gt;(Break and Replace - Help-Desk)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="MS9MhjEfk2jpSJ9V4XVU-6">
           <mxGeometry x="412.5" y="70" width="217" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MS9MhjEfk2jpSJ9V4XVU-62" value="Notification&lt;br&gt;FINMA ..&lt;br&gt;if Required" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="MS9MhjEfk2jpSJ9V4XVU-6">
+          <mxGeometry x="250" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MS9MhjEfk2jpSJ9V4XVU-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="MS9MhjEfk2jpSJ9V4XVU-5" source="MS9MhjEfk2jpSJ9V4XVU-20" target="MS9MhjEfk2jpSJ9V4XVU-31">
           <mxGeometry relative="1" as="geometry" />
@@ -117,8 +133,8 @@
         <mxCell id="MS9MhjEfk2jpSJ9V4XVU-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="MS9MhjEfk2jpSJ9V4XVU-5" source="MS9MhjEfk2jpSJ9V4XVU-38" target="MS9MhjEfk2jpSJ9V4XVU-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MS9MhjEfk2jpSJ9V4XVU-38" value="Incident Clasification" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="MS9MhjEfk2jpSJ9V4XVU-5">
-          <mxGeometry x="50" y="200" width="150" height="50" as="geometry" />
+        <mxCell id="MS9MhjEfk2jpSJ9V4XVU-38" value="Incident Classification&lt;br&gt;(start notification period)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="MS9MhjEfk2jpSJ9V4XVU-5">
+          <mxGeometry x="51" y="200" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="MS9MhjEfk2jpSJ9V4XVU-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="MS9MhjEfk2jpSJ9V4XVU-5" source="MS9MhjEfk2jpSJ9V4XVU-41" target="MS9MhjEfk2jpSJ9V4XVU-51">
           <mxGeometry relative="1" as="geometry">
