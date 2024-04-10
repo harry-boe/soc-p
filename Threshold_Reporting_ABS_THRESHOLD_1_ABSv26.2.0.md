@@ -74,7 +74,7 @@ Far bejond Threshold
 
 ABS Logs
 
-### Analysys - Stage 2
+## Analysys - Stage 2
 
 Anzahl Akten Zugriffe > Threshold -> Indicates Data Exfiltration
 Check USER -> Special ABS User (Technical  User, Massendaten, Call-Center, Help Desk, Admoin=
